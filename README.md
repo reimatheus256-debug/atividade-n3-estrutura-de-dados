@@ -4,7 +4,7 @@ Trabalho da **Atividade N3** da disciplina **Estrutura de Dados e Organização 
 
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 - **Aluno(a):** Matheus Teixeira Gomes
-- **Professor(a):** Willian Hubiner
+- **Professor(a):** Willian Hubner
 - **Linguagem:** Python 3
 
 ---
